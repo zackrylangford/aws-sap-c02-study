@@ -1,0 +1,11 @@
+# AWS credentials
+.aws/
+*.pem
+*.key
+
+# Personal notes
+personal-notes/
+
+# Temporary files
+*.tmp
+.DS_Store
